@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alan-ai/static/css/main.dddf91e4.chunk.css",
+    "main.js": "/alan-ai/static/js/main.03058a88.chunk.js",
+    "main.js.map": "/alan-ai/static/js/main.03058a88.chunk.js.map",
+    "runtime-main.js": "/alan-ai/static/js/runtime-main.db372d02.js",
+    "runtime-main.js.map": "/alan-ai/static/js/runtime-main.db372d02.js.map",
+    "static/js/2.a700b97e.chunk.js": "/alan-ai/static/js/2.a700b97e.chunk.js",
+    "static/js/2.a700b97e.chunk.js.map": "/alan-ai/static/js/2.a700b97e.chunk.js.map",
+    "index.html": "/alan-ai/index.html",
+    "precache-manifest.b808e349e984a1d497a55eec4019a890.js": "/alan-ai/precache-manifest.b808e349e984a1d497a55eec4019a890.js",
+    "service-worker.js": "/alan-ai/service-worker.js",
+    "static/css/main.dddf91e4.chunk.css.map": "/alan-ai/static/css/main.dddf91e4.chunk.css.map",
+    "static/js/2.a700b97e.chunk.js.LICENSE.txt": "/alan-ai/static/js/2.a700b97e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db372d02.js",
+    "static/js/2.a700b97e.chunk.js",
+    "static/css/main.dddf91e4.chunk.css",
+    "static/js/main.03058a88.chunk.js"
+  ]
+}
